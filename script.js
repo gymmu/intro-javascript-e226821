@@ -6,3 +6,10 @@ function changeBackground() {
   const body = document.querySelector("body")
   body.style.backgroundColor = "darkgrey"
 }
+
+
+function deleteText () {
+id="#to-delete"
+
+ 
+}
